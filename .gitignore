@@ -12,6 +12,7 @@
 *.kicad_prl
 *.sch-bak
 *~
+~*
 _autosave-*
 *.tmp
 *-save.pro
@@ -29,7 +30,10 @@ fp-info-cache
 *.xml
 *.csv
 
+*.pdf
 
 \#auto_saved_files#
 
 Gerber.zip
+
+PCB3D/*
