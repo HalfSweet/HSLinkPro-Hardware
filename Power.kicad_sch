@@ -7892,7 +7892,7 @@
 				)
 			)
 		)
-		(property "Value" "1.3n"
+		(property "Value" "1n"
 			(at 192.278 100.584 90)
 			(effects
 				(font
@@ -8233,7 +8233,7 @@
 				)
 			)
 		)
-		(property "Value" "910p"
+		(property "Value" "1n"
 			(at 173.736 122.936 0)
 			(effects
 				(font
@@ -10820,7 +10820,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 18.7452 54.61 0)
 			(effects
 				(font
@@ -11747,7 +11747,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "e4f11a84-f537-4e38-af65-d70f42fdd917")
+		(uuid "eb13161d-11bc-4b4b-9f8e-ab9b3e27c2fd")
 		(property "Reference" "C8"
 			(at 20.828 48.768 0)
 			(effects
@@ -11764,7 +11764,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 23.8252 54.61 0)
 			(effects
 				(font
@@ -11792,10 +11792,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c56dc684-9726-4236-86b2-ab0b66d0f579")
+			(uuid "e691db6b-a1da-480c-9072-3467b26d33ae")
 		)
 		(pin "2"
-			(uuid "e4d4f377-1c47-4844-83e8-3ac010b8c0c5")
+			(uuid "7ae83920-f3fc-47bc-912b-02f2058b498e")
 		)
 		(instances
 			(project "HSLinkPro"

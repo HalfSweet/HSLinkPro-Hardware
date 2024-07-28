@@ -7765,7 +7765,7 @@
 				)
 			)
 		)
-		(property "Footprint" "My USB Connector:USB-C-SMD_SHOU_TYPE-C-16P-CB1.6"
+		(property "Footprint" "My USB Connector:USB-C-SMD_CX90M-16P"
 			(at 31.75 38.1 0)
 			(effects
 				(font
