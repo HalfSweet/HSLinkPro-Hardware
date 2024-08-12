@@ -2731,12 +2731,12 @@
 		(uuid "ed0f9907-8215-4373-b550-c3687b1810e6")
 	)
 	(no_connect
-		(at 34.29 69.85)
-		(uuid "07c6674a-94e3-4837-8959-0c6a13cf2f17")
-	)
-	(no_connect
 		(at 82.55 171.45)
 		(uuid "542a9147-b548-4f1c-bf2f-143f121f4573")
+	)
+	(no_connect
+		(at 34.29 97.79)
+		(uuid "735ed186-c9cc-4ef7-8f1e-8cfcbf6a08ce")
 	)
 	(no_connect
 		(at 34.29 100.33)
@@ -3756,6 +3756,16 @@
 	)
 	(wire
 		(pts
+			(xy 22.86 69.85) (xy 34.29 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d53a3ef2-3440-488a-8e61-4367a499e099")
+	)
+	(wire
+		(pts
 			(xy 180.34 17.78) (xy 193.04 17.78)
 		)
 		(stroke
@@ -3896,16 +3906,6 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 97.79) (xy 34.29 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f7f21eb6-511a-4a69-b340-16557e31d662")
-	)
-	(wire
-		(pts
 			(xy 22.86 39.37) (xy 34.29 39.37)
 		)
 		(stroke
@@ -3924,17 +3924,6 @@
 		)
 		(uuid "ffe99d5c-0bd7-43d3-8d4c-2a39b34ace0f")
 	)
-	(label "P_EN"
-		(at 22.86 97.79 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0304f4f2-14d6-480c-aa3e-ac9c52c29b8c")
-	)
 	(label "XOUT"
 		(at 38.1 133.35 0)
 		(fields_autoplaced yes)
@@ -3945,6 +3934,17 @@
 			(justify left bottom)
 		)
 		(uuid "05302b9d-6afe-465f-a751-2e71444c751d")
+	)
+	(label "P_EN"
+		(at 22.86 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0b58fd94-b475-4c13-bba6-6a5bf5c3a474")
 	)
 	(label "UART_DTR"
 		(at 180.34 43.18 0)

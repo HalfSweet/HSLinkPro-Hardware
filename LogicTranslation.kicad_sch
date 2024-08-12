@@ -1113,6 +1113,16 @@
 	)
 	(wire
 		(pts
+			(xy 60.96 140.97) (xy 63.5 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0306e039-d5e0-492c-8574-4d30988d47e1")
+	)
+	(wire
+		(pts
 			(xy 118.11 55.88) (xy 118.11 57.15)
 		)
 		(stroke
@@ -1223,16 +1233,6 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 30.48) (xy 118.11 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2094e4a3-f1b8-491b-8976-11fb90bb23ba")
-	)
-	(wire
-		(pts
 			(xy 107.95 55.88) (xy 109.22 55.88)
 		)
 		(stroke
@@ -1270,6 +1270,26 @@
 			(type default)
 		)
 		(uuid "2ba2265e-b7be-4553-ba32-63da6ed200f5")
+	)
+	(wire
+		(pts
+			(xy 60.96 30.48) (xy 63.5 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2bdf4ad3-f9a6-4553-9063-ba770527fb53")
+	)
+	(wire
+		(pts
+			(xy 125.73 30.48) (xy 128.27 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c01f2b4-4f00-4ebd-9276-37e16d263306")
 	)
 	(wire
 		(pts
@@ -1313,13 +1333,13 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 67.31) (xy 118.11 67.31)
+			(xy 115.57 30.48) (xy 118.11 30.48)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "357c1fb4-0f16-4520-8aec-862b0c710c11")
+		(uuid "2ff1a050-f5f5-4263-bf30-9e5d2ccec402")
 	)
 	(wire
 		(pts
@@ -1403,6 +1423,16 @@
 	)
 	(wire
 		(pts
+			(xy 115.57 177.8) (xy 118.11 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41cf2382-3ade-44a9-90bc-80ade6aa3812")
+	)
+	(wire
+		(pts
 			(xy 93.98 140.97) (xy 95.25 140.97)
 		)
 		(stroke
@@ -1473,6 +1503,16 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 140.97) (xy 128.27 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c4be509-84bf-40e3-9f24-ada2ec17f4d9")
+	)
+	(wire
+		(pts
 			(xy 17.78 179.07) (xy 17.78 182.88)
 		)
 		(stroke
@@ -1480,16 +1520,6 @@
 			(type default)
 		)
 		(uuid "4d3c83ab-2e43-4135-9e75-9917ad41a548")
-	)
-	(wire
-		(pts
-			(xy 115.57 140.97) (xy 118.11 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4f68cd49-33ee-4fdc-870f-f96851eb0f00")
 	)
 	(wire
 		(pts
@@ -1603,6 +1633,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 104.14) (xy 53.34 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bf487ef-3c30-47b6-bf0d-cf0c7470e71b")
+	)
+	(wire
+		(pts
 			(xy 166.37 30.48) (xy 162.56 30.48)
 		)
 		(stroke
@@ -1620,16 +1660,6 @@
 			(type default)
 		)
 		(uuid "5d70bf37-ece2-4781-941a-fadfbb1f1f61")
-	)
-	(wire
-		(pts
-			(xy 50.8 140.97) (xy 53.34 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "618e3e77-953a-4f70-907f-36bb4f12167c")
 	)
 	(wire
 		(pts
@@ -1693,16 +1723,6 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 177.8) (xy 118.11 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6eab1449-5bb4-4367-be45-ab36d5b84350")
-	)
-	(wire
-		(pts
 			(xy 116.84 19.05) (xy 118.11 19.05)
 		)
 		(stroke
@@ -1740,6 +1760,16 @@
 			(type default)
 		)
 		(uuid "71a936dd-086d-4428-941a-64871989d965")
+	)
+	(wire
+		(pts
+			(xy 125.73 104.14) (xy 128.27 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71eb77e4-7bc5-4883-a9cf-c65ec9ea9bf3")
 	)
 	(wire
 		(pts
@@ -1800,6 +1830,16 @@
 			(type default)
 		)
 		(uuid "79f10db9-6a44-432f-b943-57fa6c6c8fa7")
+	)
+	(wire
+		(pts
+			(xy 60.96 104.14) (xy 63.5 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b7cd220-4092-4221-8c20-f34d2190be95")
 	)
 	(wire
 		(pts
@@ -1903,6 +1943,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 177.8) (xy 53.34 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86375118-6948-4baa-9167-fcf1f1072f64")
+	)
+	(wire
+		(pts
 			(xy 38.1 54.61) (xy 38.1 55.88)
 		)
 		(stroke
@@ -1930,6 +1980,26 @@
 			(type default)
 		)
 		(uuid "8dfae247-7291-4db4-9968-36b5b2077ba5")
+	)
+	(wire
+		(pts
+			(xy 115.57 140.97) (xy 118.11 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f891fda-da1a-4c87-96ab-15fa6d89e55f")
+	)
+	(wire
+		(pts
+			(xy 125.73 67.31) (xy 128.27 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8fc7beff-fea1-414d-8625-a71df8428624")
 	)
 	(wire
 		(pts
@@ -2063,16 +2133,6 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 177.8) (xy 53.34 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a6d7df51-b3e8-4060-9da0-cf3f5f82640c")
-	)
-	(wire
-		(pts
 			(xy 43.18 129.54) (xy 44.45 129.54)
 		)
 		(stroke
@@ -2173,6 +2233,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 67.31) (xy 53.34 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdd3dcde-dd97-4118-b012-72646b22c155")
+	)
+	(wire
+		(pts
 			(xy 25.4 177.8) (xy 30.48 177.8)
 		)
 		(stroke
@@ -2203,16 +2273,6 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 104.14) (xy 118.11 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c5ea29ae-5d7d-4e62-b3bc-9bba5ccb7753")
-	)
-	(wire
-		(pts
 			(xy 102.87 54.61) (xy 102.87 55.88)
 		)
 		(stroke
@@ -2220,6 +2280,16 @@
 			(type default)
 		)
 		(uuid "c69de947-6a44-4e56-b614-0443304b0425")
+	)
+	(wire
+		(pts
+			(xy 115.57 67.31) (xy 118.11 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c96a24f5-3dcf-4852-a156-75f371e6ed97")
 	)
 	(wire
 		(pts
@@ -2273,13 +2343,33 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 104.14) (xy 53.34 104.14)
+			(xy 60.96 177.8) (xy 63.5 177.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d944ea4a-ca83-4aac-92e7-c415568ae837")
+		(uuid "d2439d16-b611-4e5e-8c49-76c7721bad35")
+	)
+	(wire
+		(pts
+			(xy 125.73 177.8) (xy 128.27 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d882a47a-8cbf-4037-85f0-3fc7f8f8309f")
+	)
+	(wire
+		(pts
+			(xy 60.96 67.31) (xy 63.5 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbe3172a-70ee-40c7-abf5-dec58e3ec5ee")
 	)
 	(wire
 		(pts
@@ -2363,13 +2453,13 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 67.31) (xy 53.34 67.31)
+			(xy 50.8 140.97) (xy 53.34 140.97)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e35ad2ca-f1dd-4aa9-bcf7-9d9b94f3bad4")
+		(uuid "e15658b6-810e-4a00-85dc-ba88fafb5b1e")
 	)
 	(wire
 		(pts
@@ -2460,6 +2550,16 @@
 			(type default)
 		)
 		(uuid "ed9382f7-6f13-48fb-962d-f702adb17410")
+	)
+	(wire
+		(pts
+			(xy 115.57 104.14) (xy 118.11 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "edff3c18-833e-411b-a1a9-7762e4365d0e")
 	)
 	(wire
 		(pts
@@ -2633,7 +2733,7 @@
 	)
 	(hierarchical_label "OUT_SRST"
 		(shape output)
-		(at 118.11 30.48 0)
+		(at 128.27 30.48 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2645,7 +2745,7 @@
 	)
 	(hierarchical_label "OUT_TDO"
 		(shape input)
-		(at 53.34 104.14 0)
+		(at 63.5 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2669,7 +2769,7 @@
 	)
 	(hierarchical_label "OUT_UART_RX"
 		(shape input)
-		(at 118.11 104.14 0)
+		(at 128.27 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2693,7 +2793,7 @@
 	)
 	(hierarchical_label "OUT_TDI"
 		(shape output)
-		(at 53.34 140.97 0)
+		(at 63.5 140.97 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2705,7 +2805,7 @@
 	)
 	(hierarchical_label "OUT_UART_RTS"
 		(shape output)
-		(at 118.11 177.8 0)
+		(at 128.27 177.8 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2717,7 +2817,7 @@
 	)
 	(hierarchical_label "OUT_UART_DTR"
 		(shape output)
-		(at 118.11 140.97 0)
+		(at 128.27 140.97 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2726,6 +2826,18 @@
 			(justify left)
 		)
 		(uuid "4c33f720-70c9-4213-9a6e-fccda818f312")
+	)
+	(hierarchical_label "OUT_SWCLK{slash}TCK"
+		(shape output)
+		(at 63.5 30.48 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "51231c5d-91b7-4862-b8fc-7f185eeba59b")
 	)
 	(hierarchical_label "SWDIO{slash}TMS"
 		(shape bidirectional)
@@ -2753,7 +2865,7 @@
 	)
 	(hierarchical_label "OUT_TRST"
 		(shape output)
-		(at 53.34 177.8 0)
+		(at 63.5 177.8 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2813,7 +2925,7 @@
 	)
 	(hierarchical_label "OUT_UART_TX"
 		(shape output)
-		(at 118.11 67.31 0)
+		(at 128.27 67.31 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2825,7 +2937,7 @@
 	)
 	(hierarchical_label "OUT_SWDIO{slash}TMS"
 		(shape bidirectional)
-		(at 53.34 67.31 0)
+		(at 63.5 67.31 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2846,18 +2958,6 @@
 			(justify right)
 		)
 		(uuid "974cc1ad-f05b-4c7f-a2d6-18427c698694")
-	)
-	(hierarchical_label "OUT_SWCLK{slash}TCK"
-		(shape output)
-		(at 53.34 30.48 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "cc957ae8-8e8a-4ef8-8e66-8d7f4c4ed732")
 	)
 	(hierarchical_label "UART_DTR"
 		(shape input)
@@ -3079,6 +3179,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 57.15 30.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "038dbe28-1fa9-4309-b3fa-74ebf0118cd3")
+		(property "Reference" "R24"
+			(at 52.578 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "22R"
+			(at 61.722 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 57.15 32.258 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 57.15 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 57.15 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c41efdc4-d17d-48ae-8061-ef293a503514")
+		)
+		(pin "2"
+			(uuid "55090f18-8f7b-41eb-9af7-9e5e27d1afb7")
+		)
+		(instances
+			(project ""
+				(path "/5e2c1440-f6a4-4887-af75-aa6afc882006/abca0319-9393-450d-b9c4-cdce6b44cd17"
+					(reference "R24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 40.64 190.5 0)
 		(unit 1)
@@ -3138,6 +3305,73 @@
 			(project "HSLinkPro"
 				(path "/5e2c1440-f6a4-4887-af75-aa6afc882006/abca0319-9393-450d-b9c4-cdce6b44cd17"
 					(reference "#PWR048")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 121.92 67.31 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "05fd704c-0935-459e-a43d-8ab40dcd339f")
+		(property "Reference" "R30"
+			(at 117.348 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100R"
+			(at 127 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 121.92 69.088 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 121.92 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 121.92 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "09e2465e-78be-4138-b442-d2334ee04c00")
+		)
+		(pin "2"
+			(uuid "ea2f1d5a-3c04-4e23-b9a5-1ada16534942")
+		)
+		(instances
+			(project "HSLinkPro"
+				(path "/5e2c1440-f6a4-4887-af75-aa6afc882006/abca0319-9393-450d-b9c4-cdce6b44cd17"
+					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -3599,6 +3833,73 @@
 			(project "HSLinkPro"
 				(path "/5e2c1440-f6a4-4887-af75-aa6afc882006/abca0319-9393-450d-b9c4-cdce6b44cd17"
 					(reference "#PWR032")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 121.92 140.97 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "170b9479-ce32-4618-8ae3-df6ac737410c")
+		(property "Reference" "R32"
+			(at 117.348 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100R"
+			(at 127 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 121.92 142.748 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 121.92 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 121.92 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "136c65be-420d-4ac4-8c8a-6f1d39e45925")
+		)
+		(pin "2"
+			(uuid "dc00de35-d346-46ad-ab46-1535719ee432")
+		)
+		(instances
+			(project "HSLinkPro"
+				(path "/5e2c1440-f6a4-4887-af75-aa6afc882006/abca0319-9393-450d-b9c4-cdce6b44cd17"
+					(reference "R32")
 					(unit 1)
 				)
 			)
@@ -4253,6 +4554,73 @@
 			(project "HSLinkPro"
 				(path "/5e2c1440-f6a4-4887-af75-aa6afc882006/abca0319-9393-450d-b9c4-cdce6b44cd17"
 					(reference "#PWR056")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 57.15 177.8 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "44ddca4e-b83c-4747-af0a-8fe2f72bec4b")
+		(property "Reference" "R28"
+			(at 52.578 176.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100R"
+			(at 62.23 176.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 57.15 179.578 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 57.15 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 57.15 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "acc4536a-31e5-421c-b748-839419c9d74a")
+		)
+		(pin "2"
+			(uuid "9d4ffce3-1784-4582-bd00-4e34abb7587b")
+		)
+		(instances
+			(project "HSLinkPro"
+				(path "/5e2c1440-f6a4-4887-af75-aa6afc882006/abca0319-9393-450d-b9c4-cdce6b44cd17"
+					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -5210,7 +5578,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "61752778-8e6f-4398-b9d6-f5986c1af316")
 		(property "Reference" "U5"
 			(at 58.42 134.6514 0)
@@ -5504,6 +5871,73 @@
 			(project "HSLinkPro"
 				(path "/5e2c1440-f6a4-4887-af75-aa6afc882006/abca0319-9393-450d-b9c4-cdce6b44cd17"
 					(reference "U7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 57.15 67.31 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "67f5e471-b76c-40e4-a338-3224ef104cfb")
+		(property "Reference" "R25"
+			(at 52.578 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "22R"
+			(at 61.722 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 57.15 69.088 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 57.15 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 57.15 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8d8045d0-c4db-4d29-9e31-a2b72194b58c")
+		)
+		(pin "2"
+			(uuid "13bea3bc-9dbd-4aac-a297-8b26ac7f2168")
+		)
+		(instances
+			(project "HSLinkPro"
+				(path "/5e2c1440-f6a4-4887-af75-aa6afc882006/abca0319-9393-450d-b9c4-cdce6b44cd17"
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -5967,6 +6401,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 121.92 30.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "844728cf-1c96-440d-8473-df632490946b")
+		(property "Reference" "R29"
+			(at 117.348 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100R"
+			(at 127 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 121.92 32.258 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 121.92 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 121.92 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "957452cd-6431-437b-9e76-99da288a47ba")
+		)
+		(pin "2"
+			(uuid "a3ca8bfc-346a-4b5f-8c0d-7cb1dacf0f8f")
+		)
+		(instances
+			(project "HSLinkPro"
+				(path "/5e2c1440-f6a4-4887-af75-aa6afc882006/abca0319-9393-450d-b9c4-cdce6b44cd17"
+					(reference "R29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Logic_LevelTranslator:SN74LVC1T45DCK")
 		(at 40.64 177.8 0)
 		(unit 1)
@@ -5974,7 +6475,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "863693b0-a53f-4782-87a9-043487f52066")
 		(property "Reference" "U6"
 			(at 58.42 171.4814 0)
@@ -7037,6 +7537,73 @@
 			(project "HSLinkPro"
 				(path "/5e2c1440-f6a4-4887-af75-aa6afc882006/abca0319-9393-450d-b9c4-cdce6b44cd17"
 					(reference "#PWR053")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 57.15 104.14 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ad41f2f5-6191-4030-ac39-857d33fd9f14")
+		(property "Reference" "R26"
+			(at 52.578 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "22R"
+			(at 61.722 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 57.15 105.918 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 57.15 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 57.15 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1208520d-fd9c-46b0-ac8d-15acb8a2e495")
+		)
+		(pin "2"
+			(uuid "fe13ca9c-5141-4af9-9096-b0d2e213951f")
+		)
+		(instances
+			(project "HSLinkPro"
+				(path "/5e2c1440-f6a4-4887-af75-aa6afc882006/abca0319-9393-450d-b9c4-cdce6b44cd17"
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -8178,6 +8745,73 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 57.15 140.97 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "de6bc104-42c4-447e-9785-adeda8411e2b")
+		(property "Reference" "R27"
+			(at 52.578 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "22R"
+			(at 61.722 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 57.15 142.748 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 57.15 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 57.15 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f2d35a17-5be4-4d1c-b6cf-ca231831e56c")
+		)
+		(pin "2"
+			(uuid "2b706981-dcc4-4119-8519-8c27d9305b74")
+		)
+		(instances
+			(project "HSLinkPro"
+				(path "/5e2c1440-f6a4-4887-af75-aa6afc882006/abca0319-9393-450d-b9c4-cdce6b44cd17"
+					(reference "R27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 158.75 30.48 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8303,6 +8937,73 @@
 			(project "HSLinkPro"
 				(path "/5e2c1440-f6a4-4887-af75-aa6afc882006/abca0319-9393-450d-b9c4-cdce6b44cd17"
 					(reference "#PWR047")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 121.92 104.14 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e4808e06-d00a-4d90-b95e-f8d73b8b7b93")
+		(property "Reference" "R31"
+			(at 117.348 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100R"
+			(at 126.746 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 121.92 105.918 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 121.92 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 121.92 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0a667e93-1d3d-4420-9867-3a497c7e2748")
+		)
+		(pin "2"
+			(uuid "fcb3e263-3e21-4284-b584-ca63cfd723e1")
+		)
+		(instances
+			(project "HSLinkPro"
+				(path "/5e2c1440-f6a4-4887-af75-aa6afc882006/abca0319-9393-450d-b9c4-cdce6b44cd17"
+					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -8905,6 +9606,73 @@
 			(project "HSLinkPro"
 				(path "/5e2c1440-f6a4-4887-af75-aa6afc882006/abca0319-9393-450d-b9c4-cdce6b44cd17"
 					(reference "C33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 121.92 177.8 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f3768324-6ede-4c8f-977b-9d0674f3b504")
+		(property "Reference" "R33"
+			(at 117.348 176.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100R"
+			(at 127 176.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 121.92 179.578 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 121.92 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 121.92 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e3833642-76f8-4611-a3bc-cfccacdd05c3")
+		)
+		(pin "2"
+			(uuid "0ad64935-d69f-4018-8561-065d8c20b661")
+		)
+		(instances
+			(project "HSLinkPro"
+				(path "/5e2c1440-f6a4-4887-af75-aa6afc882006/abca0319-9393-450d-b9c4-cdce6b44cd17"
+					(reference "R33")
 					(unit 1)
 				)
 			)
